@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" extends="task" label="Booking Request" max_length="40" name="x_414923_travel_bo_booking_request" sizeclass="7" type="collection">
+        <element label="Destination" max_length="32" name="destination" reference="cmn_location" type="reference"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="From" max_length="32" name="from" reference="cmn_location" type="reference"/>
+        <element label="Return" max_length="40" name="return" type="boolean"/>
+        <element label="Return Date" max_length="40" name="return_date" type="glide_date_time"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element label="Value 1" max_length="40" name="u_longint_1" type="longint"/>
+        <element label="Value 2" max_length="40" name="u_longint_2" type="longint"/>
+        <element label="Value 3" max_length="40" name="u_longint_3" type="longint"/>
+        <element label="Sum" max_length="40" name="u_longint_5" type="longint"/>
+        <element label="Caller" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Assignment Value" max_length="40" name="u_string_4" type="string"/>
+    </element>
+</database>

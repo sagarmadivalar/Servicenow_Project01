@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9f9c5263db50001027389235ca96193c" sys_domain="global" table="x_414923_travel_bo_booking_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 05:37:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>939c5263db50001027389235ca96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_414923_travel_bo_booking_request" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">9f9c5263db50001027389235ca96193c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">81b7c25fdb94001027389235ca961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 05:37:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 05:37:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f9c5263db50001027389235ca96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_414923_travel_bo_booking_request" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">9f9c5263db50001027389235ca96193c</sys_ui_form>
+            <sys_ui_section caption="Additional Section" display_value="Additional Section" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">579cde23db50001027389235ca9619f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 05:37:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 05:40:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>664d5a63db50001027389235ca96192d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_414923_travel_bo_booking_request" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">9f9c5263db50001027389235ca96193c</sys_ui_form>
+            <sys_ui_section caption="Sum Tab" display_value="Sum Tab" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">d64d5a63db50001027389235ca96192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 05:40:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 05:38:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42fc5663db50001027389235ca96192f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_414923_travel_bo_booking_request" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">9f9c5263db50001027389235ca96193c</sys_ui_form>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">c6fc5663db50001027389235ca96192c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 05:40:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_414923_travel_bo_booking_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 05:37:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f9c5263db50001027389235ca96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_414923_travel_bo_booking_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Travel Booking Application" source="x_414923_travel_bo">8cf9e5d3db54001027389235ca9619b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Booking Application">8cf9e5d3db54001027389235ca9619b6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9f9c5263db50001027389235ca96193c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 05:37:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="SAP" name="SAP">49b7425fdb94001027389235ca9619aa</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

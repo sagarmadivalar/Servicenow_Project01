@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Additional Section" section_id="579cde23db50001027389235ca9619f8" sys_domain="global" table="x_414923_travel_bo_booking_request" version="3" view="SAP">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_longint_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 06:13:13</sys_created_on>
+            <sys_id>7fd4e6a7db50001027389235ca9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Section" display_value="Additional Section" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">579cde23db50001027389235ca9619f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 06:13:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_longint_2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 06:13:13</sys_created_on>
+            <sys_id>ffd4e6a7db50001027389235ca9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Section" display_value="Additional Section" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">579cde23db50001027389235ca9619f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 06:13:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_longint_3</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 06:13:13</sys_created_on>
+            <sys_id>73d4e6a7db50001027389235ca9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Section" display_value="Additional Section" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">579cde23db50001027389235ca9619f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 06:13:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 06:13:13</sys_created_on>
+            <sys_id>f3d4e6a7db50001027389235ca9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Additional Section" display_value="Additional Section" name="x_414923_travel_bo_booking_request" sys_domain="global" view="49b7425fdb94001027389235ca9619aa">579cde23db50001027389235ca9619f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 06:13:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Additional Section</caption>
+            <header>false</header>
+            <name>x_414923_travel_bo_booking_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 05:37:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>579cde23db50001027389235ca9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Travel Booking Application" source="x_414923_travel_bo">8cf9e5d3db54001027389235ca9619b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Booking Application">8cf9e5d3db54001027389235ca9619b6</sys_scope>
+            <sys_update_name>sys_ui_section_579cde23db50001027389235ca9619f8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 05:37:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="SAP" name="SAP">49b7425fdb94001027389235ca9619aa</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

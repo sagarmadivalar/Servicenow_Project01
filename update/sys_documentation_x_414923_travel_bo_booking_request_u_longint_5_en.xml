@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_longint_5" label="Sum" language="en" table="x_414923_travel_bo_booking_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_longint_5</element>
+            <help/>
+            <hint/>
+            <label>Sum</label>
+            <language>en</language>
+            <name>x_414923_travel_bo_booking_request</name>
+            <plural>Sums</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 05:40:05</sys_created_on>
+            <sys_id>6a4d5a63db50001027389235ca961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sum</sys_name>
+            <sys_package display_value="Travel Booking Application" source="x_414923_travel_bo">8cf9e5d3db54001027389235ca9619b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Booking Application">8cf9e5d3db54001027389235ca9619b6</sys_scope>
+            <sys_update_name>sys_documentation_x_414923_travel_bo_booking_request_u_longint_5_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 05:40:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
